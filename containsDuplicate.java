@@ -20,6 +20,6 @@ class Solution {
                 map.put(nums[i],1); //first apperance 
             }
         }
-        return false;
+        return false; 
     }
 }
